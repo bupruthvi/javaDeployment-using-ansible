@@ -1,6 +1,5 @@
-#Goal is to deploy a java application into tomcat server
+###Goal is to deploy a java application into tomcat server
 
-# Read.md where md is mark down format for git
 
 ## How ?
 ### 1. install suitable java version
