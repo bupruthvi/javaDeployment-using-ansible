@@ -1,6 +1,3 @@
-###Goal is to deploy a java application into tomcat server
-
-
 ## How ?
 ### 1. install suitable java version
 ### 2. Set java environment variables
