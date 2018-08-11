@@ -10,6 +10,3 @@
 
 ### where or which os is required?
 ### - ubuntu 16 and CentOS7
-
-# Roles (used for reusability)
-
